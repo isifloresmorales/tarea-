@@ -1,0 +1,38 @@
+# Título 
+
+## Segundo Título
+Párrafo 
+
+### Tercer título
+Párrafo
+
+###### ÚLTIMO TÍTULO
+
+1. lista
+2. ordenada
+
+- lista 
+- no 
+- ordenada
+
+_Cursiva_ 
+
+*Cursiva*
+
+__Bold__
+
+**Bold**
+
+__*Bold y cursiva*__
+
+_**Bold y cursiva**_
+
+[ir a google](https://www.google.cl/)
+
+![texto alternativo](https://purina.cl/sites/default/files/styles/webp/public/2022-10/purina-10-datos-curiosos-sobre-los-gatos.png.webp?itok=A-G57OSv)
+
+
+
+
+
+

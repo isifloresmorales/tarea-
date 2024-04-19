@@ -1,14 +1,18 @@
-## Tareas
+# Tarea 01
 
-Cada tarea debe estar contenida en una carpeta llamada `Tarea_XX` donde `XX` es el número de la tarea. Si tiene un solo dígito, se debe anteponer un `0` a este.
+### Desarrollo de ideas
 
-Ejemplo: 
-* ...
-* `Tarea_08`
-* `Tarea_09`
-* `Tarea_10`
-* `Tarea_11`
-* `Tarea_12`
-* ...
+1. En el último tiempo ha aumentado la creación de editoriales independientes, enficadas principalmente en publicar a mujeres y temáticas LGBT+
 
-Dentro de cada una de las tareas, **debes** tener un archivo `README.md` que utilice [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) donde expliques toda cosa asumida, consideración e información útil para tu corrector. 
+1. En Chile, la __escena musical independiente ha evolucionado__, recibiendo más apoyo, gracias a las plataformas digitales.
+
+1. En el último tiempo la gente se ha __interesado más por el cine chileno__, ganando también reconocimiento internacional
+
+1. Ha __aumentado mucho el tránsito de taxis ilegales__, por ejemplo en aeropuertos
+
+### Miro
+Aquí se podrá encontrar el [Link Miró](https://miro.com/welcomeonboard/YXdvV3F2M1lkZVc0aWQwWWtkYjZiYU5GSXRmZW1HV1N2ZlBxTjdFbzhVaEN6ZDFLeGhKdEwwT2Q1T2xsVHI3TnwzNDU4NzY0NTM4NDgxOTg1NTI1fDI=?share_link_id=237718142247)
+
+
+
+
